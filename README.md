@@ -8,6 +8,8 @@ this is a website
 Sample website with plenty of files for demos
 
 ## Deloyment
+this ia a sample showing the deployments conditions
 
 ## how to contribute
 
+this is a section showing how you can contribute to this demo
