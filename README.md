@@ -13,7 +13,7 @@ this ia a sample showing the deployments conditions
 ## how to contribute
 
 this is a section showing how you can contribute to this demo
-
+please fork this repo
 
 ### copyright 
 2023
