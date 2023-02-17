@@ -3,6 +3,8 @@
 
 # TEAM
 
+    Manasseh Gitau -@kimanigitau01
+
     <name> -- <role> -- <twitter>
 
 # THANKS
